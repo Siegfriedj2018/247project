@@ -1,0 +1,29 @@
+Aaron Longshore
+(474)344-3456
+along@gmail.com
+**********************************
+
+Education: 
+  -School: University of North Dakota
+  -Degree: A.S. in Computer Science
+  -Expected Graduation Date: 2023
+
+Experience: 
+  -Job title: Fry Cook
+  -Previous Employer: McDonalds
+  -Job type: Part-Time
+  -Date of Employment: August 2018 - June 2019
+  -Job description: 
+    -Assured proper production of food to be fit for consumption.
+    -Assembled orders on an assembly line in cooperation with others
+
+  -Job title: Cashier
+  -Previous Employer: Walmart
+  -Job type: Part-Time
+  -Date of Employment: July 2019 - February 2020
+  -Job description: 
+    -Mediated the exchange of goods and services.
+
+Skills: 
+  -Experienced in Java
+  -Proficient in Python
